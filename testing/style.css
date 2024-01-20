@@ -1,0 +1,11 @@
+.partners {
+  padding: 2rem;
+}
+.kartu-partner {
+  border: 1px solid blue;
+  height: 6rem;
+}
+
+.kartu-partner img {
+  height: 6rem;
+}
